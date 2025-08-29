@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "SwagLabTestBDDFrameworkSolution.sln",
+    "projects": [
+      "..\\PageLayers\\PageLayers.csproj",
+      "..\\TestLayers\\TestLayers.csproj",
+      "SwagLabTestBDDFramework.csproj"
+    ]
+  }
+}
