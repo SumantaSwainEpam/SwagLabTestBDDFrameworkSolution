@@ -1,0 +1,104 @@
+2024-10-08 22:38:50,192 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:38:59,910 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User adds products to the cart
+2024-10-08 22:39:16,379 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User adds products to the cart
+2024-10-08 22:39:20,339 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:39:24,564 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User removes products from the cart
+2024-10-08 22:39:29,166 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User removes products from the cart
+2024-10-08 22:39:44,508 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 22:51:03,554 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:51:06,987 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User adds products to the cart
+2024-10-08 22:51:11,395 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User adds products to the cart
+2024-10-08 22:51:11,852 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:51:15,783 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User removes products from the cart
+2024-10-08 22:51:19,682 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User removes products from the cart
+2024-10-08 22:51:26,542 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 22:52:02,839 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:52:06,266 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Successfully place an order
+2024-10-08 22:52:10,521 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Successfully place an order
+2024-10-08 22:52:21,049 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 22:54:28,573 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:54:31,729 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Successfully cancel an order
+2024-10-08 22:54:44,418 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:54:50,043 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Successfully cancel an order
+2024-10-08 22:54:56,993 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Successfully cancel an order
+2024-10-08 22:55:05,601 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 22:58:59,546 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 22:59:03,475 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Login with different users
+2024-10-08 22:59:06,937 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Login with different users
+2024-10-08 22:59:12,912 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:03:44,935 [ParallelWorker#7] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:03:44,935 [ParallelWorker#3] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:03:49,065 [ParallelWorker#3] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Login with different users
+2024-10-08 23:03:49,548 [ParallelWorker#7] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Create a new booking
+2024-10-08 23:03:51,911 [ParallelWorker#7] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Create a new booking
+2024-10-08 23:03:55,514 [ParallelWorker#3] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Login with different users
+2024-10-08 23:04:08,850 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:30:42,772 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:30:42,772 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:30:42,772 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:30:42,772 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:30:42,772 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:30:42,772 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:32:18,899 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User Should proceed to checkout
+2024-10-08 23:32:19,386 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Successfully place an order
+2024-10-08 23:32:20,028 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User adds products to the cart
+2024-10-08 23:32:26,005 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User Should proceed to checkout
+2024-10-08 23:32:29,173 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Successfully cancel an order
+2024-10-08 23:32:29,640 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Successfully place an order
+2024-10-08 23:32:34,374 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Create a new booking
+2024-10-08 23:32:36,554 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Create a new booking
+2024-10-08 23:32:38,213 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Login with different users
+2024-10-08 23:32:41,922 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:32:46,904 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Delete an existing booking
+2024-10-08 23:32:49,746 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Failed: Delete an existing booking
+2024-10-08 23:32:49,748 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Error Message:   Assert.That(_response.StatusCode, Is.EqualTo(HttpStatusCode.Created))
+  Expected: Created
+  But was:  MethodNotAllowed
+
+2024-10-08 23:32:54,163 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:32:59,021 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Get booking details by ID
+2024-10-08 23:32:59,385 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User adds products to the cart
+2024-10-08 23:33:00,785 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Login with different users
+2024-10-08 23:33:02,138 [ParallelWorker#4] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Successfully cancel an order
+2024-10-08 23:33:02,570 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:33:03,038 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:33:04,278 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Failed: Get booking details by ID
+2024-10-08 23:33:04,279 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Error Message: Error parsing NaN value. Path '', line 1, position 1.
+2024-10-08 23:33:05,128 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:33:07,291 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: User removes products from the cart
+2024-10-08 23:33:07,411 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Login with different users
+2024-10-08 23:33:12,076 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Partially update an existing booking
+2024-10-08 23:33:12,930 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Login with different users
+2024-10-08 23:33:14,744 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Failed: Partially update an existing booking
+2024-10-08 23:33:14,745 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Error Message:   Assert.That(_response.StatusCode, Is.EqualTo(HttpStatusCode.OK))
+  Expected: OK
+  But was:  MethodNotAllowed
+
+2024-10-08 23:33:14,962 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: User removes products from the cart
+2024-10-08 23:33:15,232 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:33:15,460 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:33:19,328 [ParallelWorker#1] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Update an existing booking
+2024-10-08 23:33:19,828 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Login with different users
+2024-10-08 23:33:22,027 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Failed: Update an existing booking
+2024-10-08 23:33:22,029 [ParallelWorker#1] ERROR SwagLabTestBDDFramework.Framework.Logs.LogManaging - Error Message:   Assert.That(_response.StatusCode, Is.EqualTo(HttpStatusCode.OK))
+  Expected: OK
+  But was:  MethodNotAllowed
+
+2024-10-08 23:33:22,609 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Login with different users
+2024-10-08 23:33:29,832 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:35:38,493 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:35:41,792 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Get booking details by ID
+2024-10-08 23:35:44,264 [ParallelWorker#5] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Get booking details by ID
+2024-10-08 23:35:52,800 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:36:12,019 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:36:15,126 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Update an existing booking
+2024-10-08 23:36:17,703 [ParallelWorker#6] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Update an existing booking
+2024-10-08 23:36:25,363 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:36:31,631 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:36:34,573 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Partially update an existing booking
+2024-10-08 23:36:37,197 [ParallelWorker#2] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Partially update an existing booking
+2024-10-08 23:36:45,432 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
+2024-10-08 23:36:50,563 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Logging has been initialized.
+2024-10-08 23:36:53,655 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Starting scenario: Delete an existing booking
+2024-10-08 23:36:55,896 [ParallelWorker#8] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Test Passed: Delete an existing booking
+2024-10-08 23:37:04,370 [NonParallelWorker] INFO  SwagLabTestBDDFramework.Framework.Logs.LogManaging - Extent Report has been flushed.
